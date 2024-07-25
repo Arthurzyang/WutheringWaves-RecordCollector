@@ -1,1 +1,10 @@
 自用抽卡分析小工具
+
+WutheringWaves_RecordCollector/
+├── main.py
+├── utils/
+│   ├── log_parser.py
+│   ├── request_handler.py
+│   ├── response_saver.py
+│   ├── statistics_calculator.py
+│   ├── some tools which are not necessary...
