@@ -2,4 +2,4 @@
 
 Analysis tool for personal use. I think it only works for the CN server. Not sure if you are using other server clients.
 
-UPDATE: Well, for other server, should be avaible if you just change the URL of Kuro's server. You can get the URL by listening the client.
+UPDATE: Well, for other server, should be avaible if you just change the URL when sending request to Kuro's server. The URL should be catchable by listening the client.
